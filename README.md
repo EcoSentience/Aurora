@@ -4,6 +4,7 @@
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Charity](https://img.shields.io/badge/registered_charity-1210865-green.svg)](https://register-of-charities.charitycommission.gov.uk/charity-search/-/charity-details/1210865)
+[![Status](https://img.shields.io/badge/status-development-orange.svg)]()
 
 ## 🌿 About Aurora
 
